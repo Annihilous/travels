@@ -29,7 +29,7 @@ test:
   <<: *default
   database: rails-app-template-test
 
-development:
+staging:
   <<: *default
   database: rails-app-template-staging
 
